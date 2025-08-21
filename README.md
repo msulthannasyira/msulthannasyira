@@ -1,10 +1,6 @@
-<p align="center">
-  <strong style="font-size: 32px;">🐱 Welcome to My GitHub 🐱</strong><br/>
-  <em>Where code meets cuteness!</em><br/><br/>
-  ฅ^•ﻌ•^ฅ
-</p>
+<h2 align="center">🐱 Welcome to My GitHub 🐱</h2>
+<p align="center"><em>Where code meets cuteness!</em></p>
 
 <p align="center">
-  <img src="./cat-space.gif" width="600" alt="Cute cat banner"/>
+  <img src="./nyan-cat.png" width="200" alt="Nyan Cat"/>
 </p>
-

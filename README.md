@@ -2,5 +2,5 @@
 <p align="center"><em>Where code meets cuteness!</em></p>
 
 <p align="center">
-  <img src="./nyan-cat.png" width="200" alt="Nyan Cat"/>
+  <img src="./cat-space.gif" width="200" alt="Nyan Cat"/>
 </p>
